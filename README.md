@@ -1,2 +1,2 @@
-# DSTPRJ
-DataScience Training Projects
+# MABJ
+My training projects
