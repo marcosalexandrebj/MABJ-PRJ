@@ -1,2 +1,2 @@
 # MABJ
-My training projects
+My playground
